@@ -83,8 +83,6 @@ __Exit__ :
 ![IMG_20200410_103335](https://user-images.githubusercontent.com/49580304/78964248-31e86700-7b17-11ea-8696-7dbf89b4d7de.jpg)
 
 
-## 📌 ***Full video tutorial***:
-[![m-wiz metasploit-framework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
