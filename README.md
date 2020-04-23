@@ -40,7 +40,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/hacklock
+$ git clone https://github.com/geek-sec/hacklock
 ```
 ```
 $ ls
@@ -88,30 +88,12 @@ __Exit__ :
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
+https://www.youtube.com/geeksec
 
 ### Chekout our webite:
-https://www.noob-hackers.com
+https://www.geekssec.blogspot.com.com
 
-## 👥 ***Join***
 
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
-
-### Telegram channel:
-https://t.me/noobhack
-
-### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
-
-### Instagram: 
-https://www.instagram.com/noobhackers352
-
-### Pinterest:
-https://in.pinterest.com/noobhackers
-
-### My GitHub ID link:
-https://www.github.com/noob-hackers
 
 ### 📢 Warning
 
