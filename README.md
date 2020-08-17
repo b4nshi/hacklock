@@ -75,14 +75,6 @@ __Exit__ :
 ![IMG_20200410_103335](https://user-images.githubusercontent.com/49580304/78964248-31e86700-7b17-11ea-8696-7dbf89b4d7de.jpg)
 
 
-## 🔗 ***Check this***
-
-
-
-### Chekout our webite:
-https://www.geekssec.blogspot.com
-
-
 
 ### 📢 Warning
 
