@@ -7,14 +7,6 @@
 
 hacklock is a bash based script which is officially termux from this tool in just one click you can generate pattern phishing tool which can hack victim pattern and. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/hacklock)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/hacklock)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/hacklock)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#hacklock)
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-![Screenshot_](https://user-images.githubusercontent.com/49580304/78962692-8c32f900-7b12-11ea-9ddb-dd5d94d825be.jpg)
 
 ### 📌 ***Hacklock is available for***:
 
@@ -85,11 +77,10 @@ __Exit__ :
 
 ## 🔗 ***Check this***
 
-### Subscribe our channel on youtube:
-https://www.youtube.com/geeksec
+
 
 ### Chekout our webite:
-https://www.geekssec.blogspot.com.com
+https://www.geekssec.blogspot.com
 
 
 
